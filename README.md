@@ -35,7 +35,7 @@ The following aspects are parameterized:
 You can use either a Java Properties file or the Apache Commons Configuration library to achieve this.
 
 ## 💻 Technologies Used
-- Java (SDK 17+)
+- Java (SDK 23)
 - IntelliJ IDEA or any Java-compatible IDE
 - Java Properties
 
