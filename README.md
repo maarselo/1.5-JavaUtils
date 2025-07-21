@@ -7,7 +7,7 @@ This project demonstrates how to work with directories, files, serialization, an
 This repository contains the full solution for Sprint 1 - JavaUtils of the Java programming track.
 The sprint is divided into two levels, progressively introducing techniques for reading, writing, and managing files and directories from the command line.
 
-##  Level 1
+## 💥 Level 1
 
 ### Exercise 1
 Implements a class that lists the contents of a directory (provided as an argument) in alphabetical order.
