@@ -38,6 +38,7 @@ You can use either a Java Properties file or the Apache Commons Configuration li
 - Java (SDK 23)
 - IntelliJ IDEA or any Java-compatible IDE
 - Java Properties
+- GSON for serialize to json
 
 ## 📋 Requirements
 Before running this project, make sure you have:
